@@ -1,6 +1,6 @@
 //Quotes from George Ivanovitch Gurdjieff contained in an array of objects
 
-var gigQuotes = [
+var quotes = [
     {
       quote: 'Man has no permanent and unchangeable I. Every thought, every mood, every desire, every sensation, says "I".',
       source: 'Gurdjieff I. Gurdjieff',

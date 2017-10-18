@@ -7,7 +7,7 @@ document.getElementById('loadQuote').addEventListener("click", printQuote, false
 //random quote generator
 function getRandomQuote() {
     var gurdjieffQuotes;
-    gurdjieffQuotes = gigQuotes[Math.floor(Math.random() * gigQuotes.length)];
+    gurdjieffQuotes = quotes[Math.floor(Math.random() * quotes.length)];
     return gurdjieffQuotes;
 }
 
